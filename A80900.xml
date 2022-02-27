@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highness the Lord Protector and the Parlam'ent [sic] of the Common-wealth of England, Scotland, &amp; Ireland, for a day of solemn fasting &amp; humiliation in the three nations.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80900</idno>
+            <idno type="STC">Wing C7068A</idno>
+            <idno type="STC">ESTC R230851</idno>
+            <idno type="EEBO-CITATION">45534375</idno>
+            <idno type="OCLC">ocm 45534375</idno>
+            <idno type="VID">171755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171755)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2589:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highness the Lord Protector and the Parlam'ent [sic] of the Common-wealth of England, Scotland, &amp; Ireland, for a day of solemn fasting &amp; humiliation in the three nations.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard, and Henry Hill, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:171755:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>A DECLARATION Of His Highneſs the Lord Protector AND THE PARLAMENT Of the Common-wealth of ENGLAND, SCOTLAND, &amp; IRELAND, For a Day of Solemn FASTING &amp; HUMILIATION in the three NATIONS.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ho is ſuch a ſtranger in our <hi>Iſrael</hi> that hath not taken notice of the great things God hath brought to paſs amongſt us by his out-ſtretched arm? What nation is there who hath had God more nigh unto them, than the Lord our God hath been to us, in all things we have called unto him for? Ask of the daies that are paſt, which have been before us, in theſe la<g ref="char:EOLhyphen"/>ter ages, whether there have been any ſuch
+<pb n="2" facs="tcp:171755:2"/>
+               <!-- PDF PAGE 5 -->things as thoſe many bleſſings and ſignal de<g ref="char:EOLhyphen"/>liverances vouchſafed to us from his own hand, in anſwer to the voice of tears and blood that have been powred forth.</p>
+            <p>But in the mean while this is matter of great lamentation, whilſt God, by a continual ſeries of his loving kindneſſes and providen<g ref="char:EOLhyphen"/>ces hath multiplied mercies and forgiveneſſes to us, we of theſe Nations, inſtead of an an<g ref="char:EOLhyphen"/>ſwerable return of thankfulneſs and obedi<g ref="char:EOLhyphen"/>ence, have, as the higheſt aggravation of our ſin, multiplyed our provocations againſt him;</p>
+            <p>In that general ignorance, unthankfulnes, and unfruitfulneſs, under all thoſe dews of grace and Goſpel-mercies.</p>
+            <p>In not acknowledging fully to this very day our calamities to have come upon us from the hands of God alone, provoked by us, who uſeth what inſtruments he pleaſeth to execute his indignation.</p>
+            <p>In not bemoaning our ſelvs, as ſons, and ſmiting upon our thighs with <hi>Ephraim,</hi> in the ſenſe of our own iniquities, and of the patience &amp; forbearing mercies of our heavenly Father.</p>
+            <p>In that prophane, ſenſual, worldly, formal and <hi>Laodicean</hi> ſpirit generally amongſt us, ſome hating the power of godlineſs, and deſpi<g ref="char:EOLhyphen"/>ſing the true profeſſors thereof, for having the image of God upon them; and others, by being looſe in their opinions and practices, <hi>have turn<g ref="char:EOLhyphen"/>ed the grace of God into wantonneſs.</hi>
+            </p>
+            <p>In that great neglect and want of zeal and courage in Magiſtrates, and other officers &amp; perſons therein concerned, to ſuppreſs enor<g ref="char:EOLhyphen"/>mities, in conſcience to perform the duty in<g ref="char:EOLhyphen"/>cumbent upon them to God and man.</p>
+            <p>All which, with other the crying ſins of theſe
+<pb n="3" facs="tcp:171755:2"/>
+               <!-- PDF PAGE 5 -->three Nations, call aloud upon us, that as we are now united to be one Commonwealth under one Government, ſo, having been ſinful and ſufferers together, we would with one heart and lip be perſwaded to unite in our humble and ſerious ad<g ref="char:EOLhyphen"/>dreſſes and ſupplications to Almighty God,</p>
+            <p>That the fruit of all our mercies might not be with <hi>Jeſurun,</hi> to kick, or to be found fighters a<g ref="char:EOLhyphen"/>gainſt him, nor oppoſers of his will, as if we were preſerved to commit yet more abominations.</p>
+            <p>That we may wreſtle and prevail with him for pardon and removal of our darkneſs, vanities, blaſphemies &amp; prophaneſs, with all that worldly mindedneſs, formality, and other abominations, which are yet found amongſt us under the glori<g ref="char:EOLhyphen"/>ous light of the Goſpel.</p>
+            <p>That as God hath been pleaſed to make choice of theſe Iſlands wherein to manifeſt many great and glorious things, ſo he would anſwerably make us a choſen generation, and a peculiar peo<g ref="char:EOLhyphen"/>ple, that in thankfulneſs to him, and example to others, we might ſhew forth his praiſes, who hath ſeparated us from other nations, and called as out of darkneſs into his light.</p>
+            <p>That God would now ſpeak with a ſtrong hand to quiet the ſpirits of men that are apt to murmure, by cauſing them clearly to ſee where the true and ſpiritual intereſt of Chriſtians lieth, and that in keeping cloſe thereunto is wrapt up their ſafety, that ſo <hi>When he uttereth his voice, All fleſh may be ſilent before him, and know that he is raiſed out of his holy habitation.</hi>
+            </p>
+            <p>That though he hath had juſt cauſe to be an<g ref="char:EOLhyphen"/>gry with us for our murmurings, back-ſlidings, and other iniquities, and hath therefore ſmitten us, yet that he would now heal us, and reſtore comfort to us and our Mourners.</p>
+            <p>And eſpecially that God would inable the Ru<g ref="char:EOLhyphen"/>lers
+<pb n="4" facs="tcp:171755:3"/>
+               <!-- PDF PAGE 6 -->of theſe Nations now in conſultation about their peace, ſettlement &amp; welfare, to proceed with faithfulneſs, zeal, wiſdom and union, to fulfill the end of their being called together, and to be ſuch, and do ſuch things for the intereſt of Chriſt and his members, and for the good of all the People, as they ought, and as he hath promi<g ref="char:EOLhyphen"/>ſed Governours ſhould be and do in ſubſervi<g ref="char:EOLhyphen"/>ency to thoſe glorious ends;</p>
+            <p>That ſo at laſt, through the goodneſs and mercy of our God, theſe three Nations, after ſo great and various revolutions, may be eſtabliſht together upon the ſure foundations of Truth, Righteouſneſs and Peace.</p>
+            <p>It is therefore declared by His Highneſs the Lord Protector and the Parlament of the Com<g ref="char:EOLhyphen"/>mon-Wealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> that for the ends and purpoſes aforeſaid they doe ap<g ref="char:EOLhyphen"/>point <hi>Wedneſday,</hi> being the eleventh day of <hi>October</hi> next, for a day of ſolemn humiliation and ſeek<g ref="char:EOLhyphen"/>ing the face of God, through the mediation of Chriſt, in all places within <hi>England</hi> and <hi>Scotland;</hi> and <hi>Wedneſday</hi> the firſt day of <hi>November</hi> next, in all places in <hi>Ireland.</hi> And doe therefore hereby in<g ref="char:EOLhyphen"/>cite and encourage all ſuch whoſe hearts God ſhall perſwade and make ſenſible of their duty, and of the Commonwealths preſent condition, that the reſpective daies aforeſaid; whereof the Miniſters and Preachers of the reſpective Pa<g ref="char:EOLhyphen"/>riſhes and Congregations are to take not<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce. For which end, It is Ordered that Copies of this Declaration be printed and ſent into the ſe<g ref="char:EOLhyphen"/>verall parts of the three Nations, that the ſame may be Publiſhed accordingly.</p>
+            <closer>
+               <dateline>Paſſed <date>the Nineteenth of <hi>September,</hi> 1654.</date>
+               </dateline>
+               <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard,</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
